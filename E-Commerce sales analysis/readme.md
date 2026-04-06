@@ -145,12 +145,3 @@ shipping costs are lowest in North America and highest in selected countries acr
 the Middle East, Africa, and South America.
 </p>
 
-<h2>Use Cases</h2>
-<ul>
-  <li>Exploratory Data Analysis (EDA)</li>
-  <li>Sales performance dashboards</li>
-  <li>Regional and country-level market analysis</li>
-  <li>Customer segmentation analysis</li>
-  <li>Profitability and pricing strategy evaluation</li>
-  <li>Payment method and shipping cost optimization</li>
-</ul>
