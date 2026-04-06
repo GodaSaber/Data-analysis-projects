@@ -1,1 +1,158 @@
+# 📊 Customer Churn Analysis
+
+## 📌 Project Overview
+
+This project analyzes customer churn to identify key factors that lead to customer loss and provide actionable insights to improve retention.
+
+---
+
+## 🎯 Objective
+
+* Understand why customers leave
+* Identify the most important churn drivers
+
+---
+
+## 💼 Business Goal
+
+* Reduce customer churn
+* Improve retention strategies
+* Minimize revenue loss
+
+---
+
+## 📁 Dataset Description
+
+The dataset contains **7,043 customers** and **21 features**, including demographics, services, account details, and churn status.
+
+---
+
+## 🧾 Features
+
+### 🔹 Customer Information
+
+* `customerID` – Unique identifier
+* `gender` – Male / Female
+* `SeniorCitizen` – 1 = Yes, 0 = No
+* `Partner` – Yes / No
+* `Dependents` – Yes / No
+
+### 🔹 Account Information
+
+* `tenure` – Months with the company
+* `Contract` – Month-to-month, One year, Two year
+* `PaperlessBilling` – Yes / No
+* `PaymentMethod` – Payment type
+
+### 🔹 Services Subscribed
+
+* `PhoneService`
+* `MultipleLines`
+* `InternetService` (DSL, Fiber optic, No)
+* `OnlineSecurity`
+* `OnlineBackup`
+* `DeviceProtection`
+* `TechSupport`
+* `StreamingTV`
+* `StreamingMovies`
+
+### 🔹 Charges
+
+* `MonthlyCharges`
+* `TotalCharges`
+
+### 🔹 Target Variable
+
+* `Churn` – Yes / No
+
+---
+
+## 🛠️ Tools & Technologies
+
+* Python (Pandas, NumPy)
+* SQL
+* Power BI
+* Excel
+
+---
+
+## 🔍 Data Analysis Process
+
+1. Data Cleaning
+2. Exploratory Data Analysis (EDA)
+3. Data Visualization
+4. Churn Factor Analysis
+5. Dashboard Creation
+
+---
+
+## 📊 Summary of Analysis
+
+### 🔑 Key Insights
+
+* Overall churn rate is **26.58%** (~1 in 4 customers leave)
+* **Month-to-month contracts** have highest churn (**42%**) vs **3%** for two-year contracts
+* Higher **monthly charges → higher churn**
+* Longer **tenure → lower churn**
+* Customers with **partners/dependents** churn less
+* **Senior customers** and **paperless billing users** churn more
+* Customers without internet service churn less
+* **Fiber optic users** show higher churn
+* Customers with **multiple services** are more likely to stay
+
+---
+
+### 📈 Key Performance Indicators (KPIs)
+
+| KPI                                | Value        |
+| ---------------------------------- | ------------ |
+| Overall Churn Rate                 | 26.58%       |
+| Monthly Recurring Revenue (MRR)    | $139,130.85  |
+| Avg. Tenure (Churned Customers)    | 17.98 months |
+| Churn Rate (Two-Year Contract)     | 3%           |
+| Churn Rate (Month-to-Month)        | 42%          |
+| Avg. Customer Lifetime Value (CLV) | $1,531.80    |
+
+---
+
+### 📊 Visual Insights
+
+* Pie charts show customer distribution across services and payment methods
+* Stacked bar charts show churn concentrated in:
+
+  * Month-to-month contracts
+  * Customers with fewer services
+
+---
+
+## 💡 Conclusions & Recommendations
+
+* High-risk customers: **month-to-month + high charges**
+* Offer **long-term contract incentives**
+* Provide **bundled services** to increase retention
+* Focus on **fiber optic users** and **senior customers**
+
+---
+
+## 📊 Dashboard
+
+Power BI dashboard includes:
+
+* Churn rate tracking
+* Customer segmentation
+* KPI monitoring
+
+---
+
+## 🚀 Conclusion
+
+This project provides data-driven insights to understand customer churn and supports businesses in improving retention strategies.
+
+---
+
+## 📬 Contact
+
+* 📧 Email: [godasaber6@gmail.com](mailto:godasaber6@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/goda-saber-426532287/
+* 💻 GitHub: https://github.com/GodaSaber
 
