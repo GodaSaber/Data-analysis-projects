@@ -105,21 +105,4 @@ communicating findings clearly, and transforming raw datasets into useful insigh
   <li>Use the projects as references for data analysis, reporting, and portfolio work.</li>
 </ol>
 
-<h2>Future Improvements</h2>
-<ul>
-  <li>Add interactive dashboards for selected projects</li>
-  <li>Include machine learning models in forecasting and churn analysis</li>
-  <li>Improve project documentation with detailed case studies</li>
-  <li>Add project-level README files for each folder</li>
-</ul>
 
-<h2>Author</h2>
-<p>
-<strong>GodaSaber</strong><br>
-Data Analysis Enthusiast | Business Intelligence Learner | Portfolio Builder
-</p>
-
-<h2>License</h2>
-<p>
-This repository is intended for educational, learning, and portfolio purposes.
-</p>
